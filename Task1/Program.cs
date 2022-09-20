@@ -1,5 +1,6 @@
 ﻿// Итоговое задание 1 четверть
 // 
+string[] array1 = new string[5] {"1234", "2", "hello", "world", "1567", "computer science"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
